@@ -1,0 +1,1219 @@
+[
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "trunc_normal_",
+        "importPath": "timm.models.layers",
+        "description": "timm.models.layers",
+        "isExtraImport": true,
+        "detail": "timm.models.layers",
+        "documentation": {}
+    },
+    {
+        "label": "trunc_normal_",
+        "importPath": "timm.models.layers",
+        "description": "timm.models.layers",
+        "isExtraImport": true,
+        "detail": "timm.models.layers",
+        "documentation": {}
+    },
+    {
+        "label": "DropPath",
+        "importPath": "timm.models.layers",
+        "description": "timm.models.layers",
+        "isExtraImport": true,
+        "detail": "timm.models.layers",
+        "documentation": {}
+    },
+    {
+        "label": "trunc_normal_",
+        "importPath": "timm.models.layers",
+        "description": "timm.models.layers",
+        "isExtraImport": true,
+        "detail": "timm.models.layers",
+        "documentation": {}
+    },
+    {
+        "label": "register_model",
+        "importPath": "timm.models.registry",
+        "description": "timm.models.registry",
+        "isExtraImport": true,
+        "detail": "timm.models.registry",
+        "documentation": {}
+    },
+    {
+        "label": "register_model",
+        "importPath": "timm.models.registry",
+        "description": "timm.models.registry",
+        "isExtraImport": true,
+        "detail": "timm.models.registry",
+        "documentation": {}
+    },
+    {
+        "label": "encoder",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "encoder",
+        "description": "encoder",
+        "detail": "encoder",
+        "documentation": {}
+    },
+    {
+        "label": "SparseConvNeXtBlock",
+        "importPath": "encoder",
+        "description": "encoder",
+        "isExtraImport": true,
+        "detail": "encoder",
+        "documentation": {}
+    },
+    {
+        "label": "SparseConvNeXtLayerNorm",
+        "importPath": "encoder",
+        "description": "encoder",
+        "isExtraImport": true,
+        "detail": "encoder",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn.functional",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn.functional",
+        "description": "torch.nn.functional",
+        "detail": "torch.nn.functional",
+        "documentation": {}
+    },
+    {
+        "label": "ResNet",
+        "importPath": "timm.models.resnet",
+        "description": "timm.models.resnet",
+        "isExtraImport": true,
+        "detail": "timm.models.resnet",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Tap",
+        "importPath": "tap",
+        "description": "tap",
+        "isExtraImport": true,
+        "detail": "tap",
+        "documentation": {}
+    },
+    {
+        "label": "dist",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dist",
+        "description": "dist",
+        "detail": "dist",
+        "documentation": {}
+    },
+    {
+        "label": "PIL.Image",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "PIL.Image",
+        "description": "PIL.Image",
+        "detail": "PIL.Image",
+        "documentation": {}
+    },
+    {
+        "label": "IMAGENET_DEFAULT_MEAN",
+        "importPath": "timm.data",
+        "description": "timm.data",
+        "isExtraImport": true,
+        "detail": "timm.data",
+        "documentation": {}
+    },
+    {
+        "label": "IMAGENET_DEFAULT_STD",
+        "importPath": "timm.data",
+        "description": "timm.data",
+        "isExtraImport": true,
+        "detail": "timm.data",
+        "documentation": {}
+    },
+    {
+        "label": "DatasetFolder",
+        "importPath": "torchvision.datasets.folder",
+        "description": "torchvision.datasets.folder",
+        "isExtraImport": true,
+        "detail": "torchvision.datasets.folder",
+        "documentation": {}
+    },
+    {
+        "label": "IMG_EXTENSIONS",
+        "importPath": "torchvision.datasets.folder",
+        "description": "torchvision.datasets.folder",
+        "isExtraImport": true,
+        "detail": "torchvision.datasets.folder",
+        "documentation": {}
+    },
+    {
+        "label": "transforms",
+        "importPath": "torchvision.transforms",
+        "description": "torchvision.transforms",
+        "isExtraImport": true,
+        "detail": "torchvision.transforms",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "Optimizer",
+        "importPath": "torch.optim.optimizer",
+        "description": "torch.optim.optimizer",
+        "isExtraImport": true,
+        "detail": "torch.optim.optimizer",
+        "documentation": {}
+    },
+    {
+        "label": "pformat",
+        "importPath": "pprint",
+        "description": "pprint",
+        "isExtraImport": true,
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "pformat",
+        "importPath": "pprint",
+        "description": "pprint",
+        "isExtraImport": true,
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "functools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "functools",
+        "description": "functools",
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "partial",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "deque",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "pytz",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytz",
+        "description": "pytz",
+        "detail": "pytz",
+        "documentation": {}
+    },
+    {
+        "label": "SummaryWriter",
+        "importPath": "torch.utils.tensorboard",
+        "description": "torch.utils.tensorboard",
+        "isExtraImport": true,
+        "detail": "torch.utils.tensorboard",
+        "documentation": {}
+    },
+    {
+        "label": "is_pow2n",
+        "importPath": "utils.misc",
+        "description": "utils.misc",
+        "isExtraImport": true,
+        "detail": "utils.misc",
+        "documentation": {}
+    },
+    {
+        "label": "torch.distributed",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.distributed",
+        "description": "torch.distributed",
+        "detail": "torch.distributed",
+        "documentation": {}
+    },
+    {
+        "label": "torch.multiprocessing",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.multiprocessing",
+        "description": "torch.multiprocessing",
+        "detail": "torch.multiprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "DistributedDataParallel",
+        "importPath": "torch.nn.parallel",
+        "description": "torch.nn.parallel",
+        "isExtraImport": true,
+        "detail": "torch.nn.parallel",
+        "documentation": {}
+    },
+    {
+        "label": "LightDecoder",
+        "importPath": "decoder",
+        "description": "decoder",
+        "isExtraImport": true,
+        "detail": "decoder",
+        "documentation": {}
+    },
+    {
+        "label": "LightDecoder",
+        "importPath": "decoder",
+        "description": "decoder",
+        "isExtraImport": true,
+        "detail": "decoder",
+        "documentation": {}
+    },
+    {
+        "label": "build_sparse_encoder",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "DistInfiniteBatchSampler",
+        "importPath": "sampler",
+        "description": "sampler",
+        "isExtraImport": true,
+        "detail": "sampler",
+        "documentation": {}
+    },
+    {
+        "label": "worker_init_fn",
+        "importPath": "sampler",
+        "description": "sampler",
+        "isExtraImport": true,
+        "detail": "sampler",
+        "documentation": {}
+    },
+    {
+        "label": "SparK",
+        "importPath": "spark",
+        "description": "spark",
+        "isExtraImport": true,
+        "detail": "spark",
+        "documentation": {}
+    },
+    {
+        "label": "arg_util",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "misc",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "lamb",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "build_dataset_to_pretrain",
+        "importPath": "utils.imagenet",
+        "description": "utils.imagenet",
+        "isExtraImport": true,
+        "detail": "utils.imagenet",
+        "documentation": {}
+    },
+    {
+        "label": "lr_wd_annealing",
+        "importPath": "utils.lr_control",
+        "description": "utils.lr_control",
+        "isExtraImport": true,
+        "detail": "utils.lr_control",
+        "documentation": {}
+    },
+    {
+        "label": "get_param_groups",
+        "importPath": "utils.lr_control",
+        "description": "utils.lr_control",
+        "isExtraImport": true,
+        "detail": "utils.lr_control",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "Sampler",
+        "importPath": "torch.utils.data.sampler",
+        "description": "torch.utils.data.sampler",
+        "isExtraImport": true,
+        "detail": "torch.utils.data.sampler",
+        "documentation": {}
+    },
+    {
+        "label": "ConvNeXt",
+        "kind": 6,
+        "importPath": "models.convnext",
+        "description": "models.convnext",
+        "peekOfCode": "class ConvNeXt(nn.Module):\n    r\"\"\" ConvNeXt\n        A PyTorch impl of : `A ConvNet for the 2020s`  -\n          https://arxiv.org/pdf/2201.03545.pdf\n    Args:\n        in_chans (int): Number of input image channels. Default: 3\n        num_classes (int): Number of classes for classification head. Default: 1000\n        depths (tuple(int)): Number of blocks at each stage. Default: [3, 3, 9, 3]\n        dims (int): Feature dimension at each stage. Default: [96, 192, 384, 768]\n        drop_path_rate (float): Stochastic depth rate. Default: 0.",
+        "detail": "models.convnext",
+        "documentation": {}
+    },
+    {
+        "label": "convnext_tiny",
+        "kind": 2,
+        "importPath": "models.convnext",
+        "description": "models.convnext",
+        "peekOfCode": "def convnext_tiny(pretrained=False, in_22k=False, **kwargs):\n    model = ConvNeXt(depths=[3, 3, 9, 3], dims=[96, 192, 384, 768], **kwargs)\n    return model\n@register_model\ndef convnext_small(pretrained=False, in_22k=False, **kwargs):\n    model = ConvNeXt(depths=[3, 3, 27, 3], dims=[96, 192, 384, 768], **kwargs)\n    return model\n@register_model\ndef convnext_base(pretrained=False, in_22k=False, **kwargs):\n    model = ConvNeXt(depths=[3, 3, 27, 3], dims=[128, 256, 512, 1024], **kwargs)",
+        "detail": "models.convnext",
+        "documentation": {}
+    },
+    {
+        "label": "convnext_small",
+        "kind": 2,
+        "importPath": "models.convnext",
+        "description": "models.convnext",
+        "peekOfCode": "def convnext_small(pretrained=False, in_22k=False, **kwargs):\n    model = ConvNeXt(depths=[3, 3, 27, 3], dims=[96, 192, 384, 768], **kwargs)\n    return model\n@register_model\ndef convnext_base(pretrained=False, in_22k=False, **kwargs):\n    model = ConvNeXt(depths=[3, 3, 27, 3], dims=[128, 256, 512, 1024], **kwargs)\n    return model\n@register_model\ndef convnext_large(pretrained=False, in_22k=False, **kwargs):\n    model = ConvNeXt(depths=[3, 3, 27, 3], dims=[192, 384, 768, 1536], **kwargs)",
+        "detail": "models.convnext",
+        "documentation": {}
+    },
+    {
+        "label": "convnext_base",
+        "kind": 2,
+        "importPath": "models.convnext",
+        "description": "models.convnext",
+        "peekOfCode": "def convnext_base(pretrained=False, in_22k=False, **kwargs):\n    model = ConvNeXt(depths=[3, 3, 27, 3], dims=[128, 256, 512, 1024], **kwargs)\n    return model\n@register_model\ndef convnext_large(pretrained=False, in_22k=False, **kwargs):\n    model = ConvNeXt(depths=[3, 3, 27, 3], dims=[192, 384, 768, 1536], **kwargs)\n    return model",
+        "detail": "models.convnext",
+        "documentation": {}
+    },
+    {
+        "label": "convnext_large",
+        "kind": 2,
+        "importPath": "models.convnext",
+        "description": "models.convnext",
+        "peekOfCode": "def convnext_large(pretrained=False, in_22k=False, **kwargs):\n    model = ConvNeXt(depths=[3, 3, 27, 3], dims=[192, 384, 768, 1536], **kwargs)\n    return model",
+        "detail": "models.convnext",
+        "documentation": {}
+    },
+    {
+        "label": "YourConvNet",
+        "kind": 6,
+        "importPath": "models.custom",
+        "description": "models.custom",
+        "peekOfCode": "class YourConvNet(nn.Module):\n    \"\"\"\n    This is a template for your custom ConvNet.\n    It is required to implement the following three functions: `get_downsample_ratio`, `get_feature_map_channels`, `forward`.\n    You can refer to the implementations in `pretrain\\models\\resnet.py` for an example.\n    \"\"\"\n    def get_downsample_ratio(self) -> int:\n        \"\"\"\n        This func would ONLY be used in `SparseEncoder's __init__` (see `pretrain/encoder.py`).\n        :return: the TOTAL downsample ratio of the ConvNet.",
+        "detail": "models.custom",
+        "documentation": {}
+    },
+    {
+        "label": "your_convnet_small",
+        "kind": 2,
+        "importPath": "models.custom",
+        "description": "models.custom",
+        "peekOfCode": "def your_convnet_small(pretrained=False, **kwargs):\n    raise NotImplementedError\n    return YourConvNet(**kwargs)\n@torch.no_grad()\ndef convnet_test():\n    from timm.models import create_model\n    cnn = create_model('your_convnet_small')\n    print('get_downsample_ratio:', cnn.get_downsample_ratio())\n    print('get_feature_map_channels:', cnn.get_feature_map_channels())\n    downsample_ratio = cnn.get_downsample_ratio()",
+        "detail": "models.custom",
+        "documentation": {}
+    },
+    {
+        "label": "convnet_test",
+        "kind": 2,
+        "importPath": "models.custom",
+        "description": "models.custom",
+        "peekOfCode": "def convnet_test():\n    from timm.models import create_model\n    cnn = create_model('your_convnet_small')\n    print('get_downsample_ratio:', cnn.get_downsample_ratio())\n    print('get_feature_map_channels:', cnn.get_feature_map_channels())\n    downsample_ratio = cnn.get_downsample_ratio()\n    feature_map_channels = cnn.get_feature_map_channels()\n    # check the forward function\n    B, C, H, W = 4, 3, 224, 224\n    inp = torch.rand(B, C, H, W)",
+        "detail": "models.custom",
+        "documentation": {}
+    },
+    {
+        "label": "get_downsample_ratio",
+        "kind": 2,
+        "importPath": "models.resnet",
+        "description": "models.resnet",
+        "peekOfCode": "def get_downsample_ratio(self: ResNet) -> int:\n    return 32\n# hack: inject the `get_feature_map_channels` function into `timm.models.resnet.ResNet`\ndef get_feature_map_channels(self: ResNet) -> List[int]:\n    # `self.feature_info` is maintained by `timm`\n    return [info['num_chs'] for info in self.feature_info[1:]]\n# hack: override the forward function of `timm.models.resnet.ResNet`\ndef forward(self, x, hierarchical=False):\n    \"\"\" this forward function is a modified version of `timm.models.resnet.ResNet.forward`\n    >>> ResNet.forward",
+        "detail": "models.resnet",
+        "documentation": {}
+    },
+    {
+        "label": "get_feature_map_channels",
+        "kind": 2,
+        "importPath": "models.resnet",
+        "description": "models.resnet",
+        "peekOfCode": "def get_feature_map_channels(self: ResNet) -> List[int]:\n    # `self.feature_info` is maintained by `timm`\n    return [info['num_chs'] for info in self.feature_info[1:]]\n# hack: override the forward function of `timm.models.resnet.ResNet`\ndef forward(self, x, hierarchical=False):\n    \"\"\" this forward function is a modified version of `timm.models.resnet.ResNet.forward`\n    >>> ResNet.forward\n    \"\"\"\n    x = self.conv1(x)\n    x = self.bn1(x)",
+        "detail": "models.resnet",
+        "documentation": {}
+    },
+    {
+        "label": "forward",
+        "kind": 2,
+        "importPath": "models.resnet",
+        "description": "models.resnet",
+        "peekOfCode": "def forward(self, x, hierarchical=False):\n    \"\"\" this forward function is a modified version of `timm.models.resnet.ResNet.forward`\n    >>> ResNet.forward\n    \"\"\"\n    x = self.conv1(x)\n    x = self.bn1(x)\n    x = self.act1(x)\n    x = self.maxpool(x)\n    if hierarchical:\n        ls = []",
+        "detail": "models.resnet",
+        "documentation": {}
+    },
+    {
+        "label": "convnet_test",
+        "kind": 2,
+        "importPath": "models.resnet",
+        "description": "models.resnet",
+        "peekOfCode": "def convnet_test():\n    from timm.models import create_model\n    cnn = create_model('resnet50')\n    print('get_downsample_ratio:', cnn.get_downsample_ratio())\n    print('get_feature_map_channels:', cnn.get_feature_map_channels())\n    downsample_ratio = cnn.get_downsample_ratio()\n    feature_map_channels = cnn.get_feature_map_channels()\n    # check the forward function\n    B, C, H, W = 4, 3, 224, 224\n    inp = torch.rand(B, C, H, W)",
+        "detail": "models.resnet",
+        "documentation": {}
+    },
+    {
+        "label": "ResNet.get_downsample_ratio",
+        "kind": 5,
+        "importPath": "models.resnet",
+        "description": "models.resnet",
+        "peekOfCode": "ResNet.get_downsample_ratio = get_downsample_ratio\nResNet.get_feature_map_channels = get_feature_map_channels\nResNet.forward = forward\n@torch.no_grad()\ndef convnet_test():\n    from timm.models import create_model\n    cnn = create_model('resnet50')\n    print('get_downsample_ratio:', cnn.get_downsample_ratio())\n    print('get_feature_map_channels:', cnn.get_feature_map_channels())\n    downsample_ratio = cnn.get_downsample_ratio()",
+        "detail": "models.resnet",
+        "documentation": {}
+    },
+    {
+        "label": "ResNet.get_feature_map_channels",
+        "kind": 5,
+        "importPath": "models.resnet",
+        "description": "models.resnet",
+        "peekOfCode": "ResNet.get_feature_map_channels = get_feature_map_channels\nResNet.forward = forward\n@torch.no_grad()\ndef convnet_test():\n    from timm.models import create_model\n    cnn = create_model('resnet50')\n    print('get_downsample_ratio:', cnn.get_downsample_ratio())\n    print('get_feature_map_channels:', cnn.get_feature_map_channels())\n    downsample_ratio = cnn.get_downsample_ratio()\n    feature_map_channels = cnn.get_feature_map_channels()",
+        "detail": "models.resnet",
+        "documentation": {}
+    },
+    {
+        "label": "ResNet.forward",
+        "kind": 5,
+        "importPath": "models.resnet",
+        "description": "models.resnet",
+        "peekOfCode": "ResNet.forward = forward\n@torch.no_grad()\ndef convnet_test():\n    from timm.models import create_model\n    cnn = create_model('resnet50')\n    print('get_downsample_ratio:', cnn.get_downsample_ratio())\n    print('get_feature_map_channels:', cnn.get_feature_map_channels())\n    downsample_ratio = cnn.get_downsample_ratio()\n    feature_map_channels = cnn.get_feature_map_channels()\n    # check the forward function",
+        "detail": "models.resnet",
+        "documentation": {}
+    },
+    {
+        "label": "Args",
+        "kind": 6,
+        "importPath": "utils.arg_util",
+        "description": "utils.arg_util",
+        "peekOfCode": "class Args(Tap):\n    # environment\n    exp_name: str = 'your_exp_name'\n    exp_dir: str = 'your_exp_dir'   # will be created if not exists\n    data_path: str = 'imagenet'\n    init_weight: str = ''   # use some checkpoint as model weight initialization; ONLY load model weights\n    resume_from: str = ''   # resume the experiment from some checkpoint.pth; load model weights, optimizer states, and last epoch\n    # SparK hyperparameters\n    mask: float = 0.6   # mask ratio, should be in (0, 1)\n    # encoder hyperparameters",
+        "detail": "utils.arg_util",
+        "documentation": {}
+    },
+    {
+        "label": "init_dist_and_get_args",
+        "kind": 2,
+        "importPath": "utils.arg_util",
+        "description": "utils.arg_util",
+        "peekOfCode": "def init_dist_and_get_args():\n    from utils import misc\n    # initialize\n    args = Args(explicit_bool=True).parse_args()\n    e = os.path.abspath(args.exp_dir)\n    d, e = os.path.dirname(e), os.path.basename(e)\n    e = ''.join(ch if (ch.isalnum() or ch == '-') else '_' for ch in e)\n    args.exp_dir = os.path.join(d, e)\n    os.makedirs(args.exp_dir, exist_ok=True)\n    args.log_txt_name = os.path.join(args.exp_dir, 'pretrain_log.txt')",
+        "detail": "utils.arg_util",
+        "documentation": {}
+    },
+    {
+        "label": "ImageNetDataset",
+        "kind": 6,
+        "importPath": "utils.imagenet",
+        "description": "utils.imagenet",
+        "peekOfCode": "class ImageNetDataset(DatasetFolder):\n    def __init__(\n            self,\n            imagenet_folder: str,\n            train: bool,\n            transform: Callable,\n            is_valid_file: Optional[Callable[[str], bool]] = None,\n    ):\n        imagenet_folder = os.path.join(imagenet_folder, 'train' if train else 'val')\n        super(ImageNetDataset, self).__init__(",
+        "detail": "utils.imagenet",
+        "documentation": {}
+    },
+    {
+        "label": "pil_loader",
+        "kind": 2,
+        "importPath": "utils.imagenet",
+        "description": "utils.imagenet",
+        "peekOfCode": "def pil_loader(path):\n    # open path as file to avoid ResourceWarning (https://github.com/python-pillow/Pillow/issues/835)\n    with open(path, 'rb') as f: img: PImage.Image = PImage.open(f).convert('RGB')\n    return img\nclass ImageNetDataset(DatasetFolder):\n    def __init__(\n            self,\n            imagenet_folder: str,\n            train: bool,\n            transform: Callable,",
+        "detail": "utils.imagenet",
+        "documentation": {}
+    },
+    {
+        "label": "build_dataset_to_pretrain",
+        "kind": 2,
+        "importPath": "utils.imagenet",
+        "description": "utils.imagenet",
+        "peekOfCode": "def build_dataset_to_pretrain(dataset_path, input_size) -> Dataset:\n    \"\"\"\n    You may need to modify this function to return your own dataset.\n    Define a new class, a subclass of `Dataset`, to replace our ImageNetDataset.\n    Use dataset_path to build your image file path list.\n    Use input_size to create the transformation function for your images, can refer to the `trans_train` blow. \n    :param dataset_path: the folder of dataset\n    :param input_size: the input size (image resolution)\n    :return: the dataset used for pretraining\n    \"\"\"",
+        "detail": "utils.imagenet",
+        "documentation": {}
+    },
+    {
+        "label": "print_transform",
+        "kind": 2,
+        "importPath": "utils.imagenet",
+        "description": "utils.imagenet",
+        "peekOfCode": "def print_transform(transform, s):\n    print(f'Transform {s} = ')\n    for t in transform.transforms:\n        print(t)\n    print('---------------------------\\n')",
+        "detail": "utils.imagenet",
+        "documentation": {}
+    },
+    {
+        "label": "TheSameAsTimmLAMB",
+        "kind": 6,
+        "importPath": "utils.lamb",
+        "description": "utils.lamb",
+        "peekOfCode": "class TheSameAsTimmLAMB(Optimizer):\n    \"\"\"Implements a pure pytorch variant of FuseLAMB (NvLamb variant) optimizer from apex.optimizers.FusedLAMB\n    reference: https://github.com/NVIDIA/DeepLearningExamples/blob/master/PyTorch/LanguageModeling/Transformer-XL/pytorch/lamb.py\n    LAMB was proposed in `Large Batch Optimization for Deep Learning: Training BERT in 76 minutes`_.\n    Arguments:\n        params (iterable): iterable of parameters to optimize or dicts defining parameter groups.\n        lr (float, optional): learning rate. (default: 1e-3)\n        betas (Tuple[float, float], optional): coefficients used for computing\n            running averages of gradient and its norm. (default: (0.9, 0.999))\n        eps (float, optional): term added to the denominator to improve",
+        "detail": "utils.lamb",
+        "documentation": {}
+    },
+    {
+        "label": "lr_wd_annealing",
+        "kind": 2,
+        "importPath": "utils.lr_control",
+        "description": "utils.lr_control",
+        "peekOfCode": "def lr_wd_annealing(optimizer, peak_lr, wd, wd_end, cur_it, wp_it, max_it):\n    wp_it = round(wp_it)\n    if cur_it < wp_it:\n        cur_lr = 0.005 * peak_lr + 0.995 * peak_lr * cur_it / wp_it\n    else:\n        ratio = (cur_it - wp_it) / (max_it - 1 - wp_it)\n        cur_lr = 0.001 * peak_lr + 0.999 * peak_lr * (0.5 + 0.5 * math.cos(math.pi * ratio))\n    ratio = cur_it / (max_it - 1)\n    cur_wd = wd_end + (wd - wd_end) * (0.5 + 0.5 * math.cos(math.pi * ratio))\n    min_lr, max_lr = cur_lr, cur_lr",
+        "detail": "utils.lr_control",
+        "documentation": {}
+    },
+    {
+        "label": "get_param_groups",
+        "kind": 2,
+        "importPath": "utils.lr_control",
+        "description": "utils.lr_control",
+        "peekOfCode": "def get_param_groups(model, nowd_keys=()):\n    para_groups, para_groups_dbg = {}, {}\n    for name, para in model.named_parameters():\n        if not para.requires_grad:\n            continue  # frozen weights\n        if len(para.shape) == 1 or name.endswith('.bias') or any(k in name for k in nowd_keys):\n            wd_scale, group_name = 0., 'no_decay'\n        else:\n            wd_scale, group_name = 1., 'decay'\n        if group_name not in para_groups:",
+        "detail": "utils.lr_control",
+        "documentation": {}
+    },
+    {
+        "label": "_SyncPrintToFile",
+        "kind": 6,
+        "importPath": "utils.misc",
+        "description": "utils.misc",
+        "peekOfCode": "class _SyncPrintToFile(object):\n    def __init__(self, exp_dir, stdout=True):\n        self.terminal = sys.stdout if stdout else sys.stderr\n        fname = os.path.join(exp_dir, 'stdout_backup.txt' if stdout else 'stderr_backup.txt')\n        self.log = open(fname, 'w')\n        self.log.flush()\n    def write(self, message):\n        self.terminal.write(message)\n        self.log.write(message)\n        self.log.flush()",
+        "detail": "utils.misc",
+        "documentation": {}
+    },
+    {
+        "label": "TensorboardLogger",
+        "kind": 6,
+        "importPath": "utils.misc",
+        "description": "utils.misc",
+        "peekOfCode": "class TensorboardLogger(object):\n    def __init__(self, log_dir, is_master, prefix='pt'):\n        self.is_master = is_master\n        self.writer = SummaryWriter(log_dir=log_dir) if self.is_master else None\n        self.step = 0\n        self.prefix = prefix\n        self.log_freq = 300\n    def set_step(self, step=None):\n        if step is not None:\n            self.step = step",
+        "detail": "utils.misc",
+        "documentation": {}
+    },
+    {
+        "label": "SmoothedValue",
+        "kind": 6,
+        "importPath": "utils.misc",
+        "description": "utils.misc",
+        "peekOfCode": "class SmoothedValue(object):\n    \"\"\"Track a series of values and provide access to smoothed values over a\n    window or the global series average.\n    \"\"\"\n    def __init__(self, window_size=20, fmt=None):\n        if fmt is None:\n            fmt = \"{median:.4f} ({global_avg:.4f})\"\n        self.deque = deque(maxlen=window_size)\n        self.total = 0.0\n        self.count = 0",
+        "detail": "utils.misc",
+        "documentation": {}
+    },
+    {
+        "label": "MetricLogger",
+        "kind": 6,
+        "importPath": "utils.misc",
+        "description": "utils.misc",
+        "peekOfCode": "class MetricLogger(object):\n    def __init__(self, delimiter=\"\\t\"):\n        self.meters = defaultdict(SmoothedValue)\n        self.delimiter = delimiter\n    def update(self, **kwargs):\n        for k, v in kwargs.items():\n            if v is None:\n                continue\n            if isinstance(v, torch.Tensor):\n                v = v.item()",
+        "detail": "utils.misc",
+        "documentation": {}
+    },
+    {
+        "label": "os_system_get_stdout_stderr",
+        "kind": 2,
+        "importPath": "utils.misc",
+        "description": "utils.misc",
+        "peekOfCode": "def os_system_get_stdout_stderr(cmd):\n    sp = subprocess.run(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)\n    return sp.stdout.decode('utf-8'), sp.stderr.decode('utf-8')\ndef is_pow2n(x):\n    return x > 0 and (x & (x - 1) == 0)\ndef time_str(for_dirname=False):\n    return datetime.datetime.now(tz=pytz.timezone('Asia/Shanghai')).strftime('%m-%d_%H-%M-%S' if for_dirname else '[%m-%d %H:%M:%S]')\ndef init_distributed_environ(exp_dir):\n    dist.initialize()\n    dist.barrier()",
+        "detail": "utils.misc",
+        "documentation": {}
+    },
+    {
+        "label": "is_pow2n",
+        "kind": 2,
+        "importPath": "utils.misc",
+        "description": "utils.misc",
+        "peekOfCode": "def is_pow2n(x):\n    return x > 0 and (x & (x - 1) == 0)\ndef time_str(for_dirname=False):\n    return datetime.datetime.now(tz=pytz.timezone('Asia/Shanghai')).strftime('%m-%d_%H-%M-%S' if for_dirname else '[%m-%d %H:%M:%S]')\ndef init_distributed_environ(exp_dir):\n    dist.initialize()\n    dist.barrier()\n    import torch.backends.cudnn as cudnn\n    cudnn.benchmark = True\n    cudnn.deterministic = False",
+        "detail": "utils.misc",
+        "documentation": {}
+    },
+    {
+        "label": "time_str",
+        "kind": 2,
+        "importPath": "utils.misc",
+        "description": "utils.misc",
+        "peekOfCode": "def time_str(for_dirname=False):\n    return datetime.datetime.now(tz=pytz.timezone('Asia/Shanghai')).strftime('%m-%d_%H-%M-%S' if for_dirname else '[%m-%d %H:%M:%S]')\ndef init_distributed_environ(exp_dir):\n    dist.initialize()\n    dist.barrier()\n    import torch.backends.cudnn as cudnn\n    cudnn.benchmark = True\n    cudnn.deterministic = False\n    _set_print_only_on_master_proc(is_master=dist.is_local_master())\n    if dist.is_local_master() and len(exp_dir):",
+        "detail": "utils.misc",
+        "documentation": {}
+    },
+    {
+        "label": "init_distributed_environ",
+        "kind": 2,
+        "importPath": "utils.misc",
+        "description": "utils.misc",
+        "peekOfCode": "def init_distributed_environ(exp_dir):\n    dist.initialize()\n    dist.barrier()\n    import torch.backends.cudnn as cudnn\n    cudnn.benchmark = True\n    cudnn.deterministic = False\n    _set_print_only_on_master_proc(is_master=dist.is_local_master())\n    if dist.is_local_master() and len(exp_dir):\n        sys.stdout, sys.stderr = _SyncPrintToFile(exp_dir, stdout=True), _SyncPrintToFile(exp_dir, stdout=False)\ndef _set_print_only_on_master_proc(is_master):",
+        "detail": "utils.misc",
+        "documentation": {}
+    },
+    {
+        "label": "save_checkpoint_with_meta_info_and_opt_state",
+        "kind": 2,
+        "importPath": "utils.misc",
+        "description": "utils.misc",
+        "peekOfCode": "def save_checkpoint_with_meta_info_and_opt_state(save_to, args, epoch, performance_desc, model_without_ddp_state, optimizer_state):\n    checkpoint_path = os.path.join(args.exp_dir, save_to)\n    if dist.is_local_master():\n        to_save = {\n            'args': str(args),\n            'input_size': args.input_size,\n            'arch': args.model,\n            'epoch': epoch,\n            'performance_desc': performance_desc,\n            'module': model_without_ddp_state,",
+        "detail": "utils.misc",
+        "documentation": {}
+    },
+    {
+        "label": "save_checkpoint_model_weights_only",
+        "kind": 2,
+        "importPath": "utils.misc",
+        "description": "utils.misc",
+        "peekOfCode": "def save_checkpoint_model_weights_only(save_to, args, sp_cnn_state):\n    checkpoint_path = os.path.join(args.exp_dir, save_to)\n    if dist.is_local_master():\n        torch.save(sp_cnn_state, checkpoint_path)\ndef initialize_weight(init_weight: str, model_without_ddp):\n    # use some checkpoint as model weight initialization; ONLY load model weights\n    if len(init_weight):\n        checkpoint = torch.load(init_weight, 'cpu')\n        missing, unexpected = model_without_ddp.load_state_dict(checkpoint.get('module', checkpoint), strict=False)\n        print(f'[initialize_weight] missing_keys={missing}')",
+        "detail": "utils.misc",
+        "documentation": {}
+    },
+    {
+        "label": "initialize_weight",
+        "kind": 2,
+        "importPath": "utils.misc",
+        "description": "utils.misc",
+        "peekOfCode": "def initialize_weight(init_weight: str, model_without_ddp):\n    # use some checkpoint as model weight initialization; ONLY load model weights\n    if len(init_weight):\n        checkpoint = torch.load(init_weight, 'cpu')\n        missing, unexpected = model_without_ddp.load_state_dict(checkpoint.get('module', checkpoint), strict=False)\n        print(f'[initialize_weight] missing_keys={missing}')\n        print(f'[initialize_weight] unexpected_keys={unexpected}')\ndef load_checkpoint(resume_from: str, model_without_ddp, optimizer):\n    # resume the experiment from some checkpoint.pth; load model weights, optimizer states, and last epoch\n    if len(resume_from) == 0:",
+        "detail": "utils.misc",
+        "documentation": {}
+    },
+    {
+        "label": "load_checkpoint",
+        "kind": 2,
+        "importPath": "utils.misc",
+        "description": "utils.misc",
+        "peekOfCode": "def load_checkpoint(resume_from: str, model_without_ddp, optimizer):\n    # resume the experiment from some checkpoint.pth; load model weights, optimizer states, and last epoch\n    if len(resume_from) == 0:\n        return 0, '[no performance_desc]'\n    print(f'[try to resume from file `{resume_from}`]')\n    checkpoint = torch.load(resume_from, map_location='cpu')\n    ep_start, performance_desc = checkpoint.get('epoch', -1) + 1, checkpoint.get('performance_desc', '[no performance_desc]')\n    missing, unexpected = model_without_ddp.load_state_dict(checkpoint.get('module', checkpoint), strict=False)\n    print(f'[load_checkpoint] missing_keys={missing}')\n    print(f'[load_checkpoint] unexpected_keys={unexpected}')",
+        "detail": "utils.misc",
+        "documentation": {}
+    },
+    {
+        "label": "os_system",
+        "kind": 5,
+        "importPath": "utils.misc",
+        "description": "utils.misc",
+        "peekOfCode": "os_system = functools.partial(subprocess.call, shell=True)\nos_system_get_stdout = lambda cmd: subprocess.run(cmd, shell=True, stdout=subprocess.PIPE).stdout.decode('utf-8')\ndef os_system_get_stdout_stderr(cmd):\n    sp = subprocess.run(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)\n    return sp.stdout.decode('utf-8'), sp.stderr.decode('utf-8')\ndef is_pow2n(x):\n    return x > 0 and (x & (x - 1) == 0)\ndef time_str(for_dirname=False):\n    return datetime.datetime.now(tz=pytz.timezone('Asia/Shanghai')).strftime('%m-%d_%H-%M-%S' if for_dirname else '[%m-%d %H:%M:%S]')\ndef init_distributed_environ(exp_dir):",
+        "detail": "utils.misc",
+        "documentation": {}
+    },
+    {
+        "label": "os_system_get_stdout",
+        "kind": 5,
+        "importPath": "utils.misc",
+        "description": "utils.misc",
+        "peekOfCode": "os_system_get_stdout = lambda cmd: subprocess.run(cmd, shell=True, stdout=subprocess.PIPE).stdout.decode('utf-8')\ndef os_system_get_stdout_stderr(cmd):\n    sp = subprocess.run(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)\n    return sp.stdout.decode('utf-8'), sp.stderr.decode('utf-8')\ndef is_pow2n(x):\n    return x > 0 and (x & (x - 1) == 0)\ndef time_str(for_dirname=False):\n    return datetime.datetime.now(tz=pytz.timezone('Asia/Shanghai')).strftime('%m-%d_%H-%M-%S' if for_dirname else '[%m-%d %H:%M:%S]')\ndef init_distributed_environ(exp_dir):\n    dist.initialize()",
+        "detail": "utils.misc",
+        "documentation": {}
+    },
+    {
+        "label": "UNetBlock",
+        "kind": 6,
+        "importPath": "decoder",
+        "description": "decoder",
+        "peekOfCode": "class UNetBlock(nn.Module):\n    def __init__(self, cin, cout, bn2d):\n        \"\"\"\n        a UNet block with 2x up sampling\n        \"\"\"\n        super().__init__()\n        self.up_sample = nn.ConvTranspose2d(cin, cin, kernel_size=4, stride=2, padding=1, bias=True)\n        self.conv = nn.Sequential(\n            nn.Conv2d(cin, cin, kernel_size=3, stride=1, padding=1, bias=False), bn2d(cin), nn.ReLU6(inplace=True),\n            nn.Conv2d(cin, cout, kernel_size=3, stride=1, padding=1, bias=False), bn2d(cout),",
+        "detail": "decoder",
+        "documentation": {}
+    },
+    {
+        "label": "LightDecoder",
+        "kind": 6,
+        "importPath": "decoder",
+        "description": "decoder",
+        "peekOfCode": "class LightDecoder(nn.Module):\n    def __init__(self, up_sample_ratio, width=768, sbn=True):   # todo: the decoder's width follows a simple halfing rule; you can change it to any other rule\n        super().__init__()\n        self.width = width\n        assert is_pow2n(up_sample_ratio)\n        n = round(math.log2(up_sample_ratio))\n        channels = [self.width // 2 ** i for i in range(n + 1)] # todo: the decoder's width follows a simple halfing rule; you can change it to any other rule\n        bn2d = nn.SyncBatchNorm if sbn else nn.BatchNorm2d\n        self.dec = nn.ModuleList([UNetBlock(cin, cout, bn2d) for (cin, cout) in zip(channels[:-1], channels[1:])])\n        self.proj = nn.Conv2d(channels[-1], 3, kernel_size=1, stride=1, bias=True)",
+        "detail": "decoder",
+        "documentation": {}
+    },
+    {
+        "label": "initialized",
+        "kind": 2,
+        "importPath": "dist",
+        "description": "dist",
+        "peekOfCode": "def initialized():\n    return __initialized\ndef initialize(backend='nccl'):\n    global __device\n    if not torch.cuda.is_available():\n        print(f'[dist initialize] cuda is not available, use cpu instead', file=sys.stderr)\n        return\n    elif 'RANK' not in os.environ:\n        __device = torch.empty(1).cuda().device\n        print(f'[dist initialize] RANK is not set, use 1 GPU instead', file=sys.stderr)",
+        "detail": "dist",
+        "documentation": {}
+    },
+    {
+        "label": "initialize",
+        "kind": 2,
+        "importPath": "dist",
+        "description": "dist",
+        "peekOfCode": "def initialize(backend='nccl'):\n    global __device\n    if not torch.cuda.is_available():\n        print(f'[dist initialize] cuda is not available, use cpu instead', file=sys.stderr)\n        return\n    elif 'RANK' not in os.environ:\n        __device = torch.empty(1).cuda().device\n        print(f'[dist initialize] RANK is not set, use 1 GPU instead', file=sys.stderr)\n        return\n    # ref: https://github.com/open-mmlab/mmcv/blob/master/mmcv/runner/dist_utils.py#L29",
+        "detail": "dist",
+        "documentation": {}
+    },
+    {
+        "label": "get_rank",
+        "kind": 2,
+        "importPath": "dist",
+        "description": "dist",
+        "peekOfCode": "def get_rank():\n    return __rank\ndef get_local_rank():\n    return __local_rank\ndef get_world_size():\n    return __world_size\ndef get_device():\n    return __device\ndef is_master():\n    return __rank == 0",
+        "detail": "dist",
+        "documentation": {}
+    },
+    {
+        "label": "get_local_rank",
+        "kind": 2,
+        "importPath": "dist",
+        "description": "dist",
+        "peekOfCode": "def get_local_rank():\n    return __local_rank\ndef get_world_size():\n    return __world_size\ndef get_device():\n    return __device\ndef is_master():\n    return __rank == 0\ndef is_local_master():\n    return __local_rank == 0",
+        "detail": "dist",
+        "documentation": {}
+    },
+    {
+        "label": "get_world_size",
+        "kind": 2,
+        "importPath": "dist",
+        "description": "dist",
+        "peekOfCode": "def get_world_size():\n    return __world_size\ndef get_device():\n    return __device\ndef is_master():\n    return __rank == 0\ndef is_local_master():\n    return __local_rank == 0\ndef barrier():\n    if __initialized:",
+        "detail": "dist",
+        "documentation": {}
+    },
+    {
+        "label": "get_device",
+        "kind": 2,
+        "importPath": "dist",
+        "description": "dist",
+        "peekOfCode": "def get_device():\n    return __device\ndef is_master():\n    return __rank == 0\ndef is_local_master():\n    return __local_rank == 0\ndef barrier():\n    if __initialized:\n        tdist.barrier()\ndef parallelize(net, syncbn=False):",
+        "detail": "dist",
+        "documentation": {}
+    },
+    {
+        "label": "is_master",
+        "kind": 2,
+        "importPath": "dist",
+        "description": "dist",
+        "peekOfCode": "def is_master():\n    return __rank == 0\ndef is_local_master():\n    return __local_rank == 0\ndef barrier():\n    if __initialized:\n        tdist.barrier()\ndef parallelize(net, syncbn=False):\n    if syncbn:\n        net = torch.nn.SyncBatchNorm.convert_sync_batchnorm(net)",
+        "detail": "dist",
+        "documentation": {}
+    },
+    {
+        "label": "is_local_master",
+        "kind": 2,
+        "importPath": "dist",
+        "description": "dist",
+        "peekOfCode": "def is_local_master():\n    return __local_rank == 0\ndef barrier():\n    if __initialized:\n        tdist.barrier()\ndef parallelize(net, syncbn=False):\n    if syncbn:\n        net = torch.nn.SyncBatchNorm.convert_sync_batchnorm(net)\n    net = net.cuda()\n    net = torch.nn.parallel.DistributedDataParallel(net, device_ids=[get_local_rank()], find_unused_parameters=False, broadcast_buffers=False)",
+        "detail": "dist",
+        "documentation": {}
+    },
+    {
+        "label": "barrier",
+        "kind": 2,
+        "importPath": "dist",
+        "description": "dist",
+        "peekOfCode": "def barrier():\n    if __initialized:\n        tdist.barrier()\ndef parallelize(net, syncbn=False):\n    if syncbn:\n        net = torch.nn.SyncBatchNorm.convert_sync_batchnorm(net)\n    net = net.cuda()\n    net = torch.nn.parallel.DistributedDataParallel(net, device_ids=[get_local_rank()], find_unused_parameters=False, broadcast_buffers=False)\n    return net\ndef allreduce(t: torch.Tensor) -> None:",
+        "detail": "dist",
+        "documentation": {}
+    },
+    {
+        "label": "parallelize",
+        "kind": 2,
+        "importPath": "dist",
+        "description": "dist",
+        "peekOfCode": "def parallelize(net, syncbn=False):\n    if syncbn:\n        net = torch.nn.SyncBatchNorm.convert_sync_batchnorm(net)\n    net = net.cuda()\n    net = torch.nn.parallel.DistributedDataParallel(net, device_ids=[get_local_rank()], find_unused_parameters=False, broadcast_buffers=False)\n    return net\ndef allreduce(t: torch.Tensor) -> None:\n    if __initialized:\n        if not t.is_cuda:\n            cu = t.detach().cuda()",
+        "detail": "dist",
+        "documentation": {}
+    },
+    {
+        "label": "allreduce",
+        "kind": 2,
+        "importPath": "dist",
+        "description": "dist",
+        "peekOfCode": "def allreduce(t: torch.Tensor) -> None:\n    if __initialized:\n        if not t.is_cuda:\n            cu = t.detach().cuda()\n            tdist.all_reduce(cu)\n            t.copy_(cu.cpu())\n        else:\n            tdist.all_reduce(t)\ndef allgather(t: torch.Tensor, cat=True) -> Union[List[torch.Tensor], torch.Tensor]:\n    if __initialized:",
+        "detail": "dist",
+        "documentation": {}
+    },
+    {
+        "label": "allgather",
+        "kind": 2,
+        "importPath": "dist",
+        "description": "dist",
+        "peekOfCode": "def allgather(t: torch.Tensor, cat=True) -> Union[List[torch.Tensor], torch.Tensor]:\n    if __initialized:\n        if not t.is_cuda:\n            t = t.cuda()\n        ls = [torch.empty_like(t) for _ in range(__world_size)]\n        tdist.all_gather(ls, t)\n    else:\n        ls = [t]\n    if cat:\n        ls = torch.cat(ls, dim=0)",
+        "detail": "dist",
+        "documentation": {}
+    },
+    {
+        "label": "broadcast",
+        "kind": 2,
+        "importPath": "dist",
+        "description": "dist",
+        "peekOfCode": "def broadcast(t: torch.Tensor, src_rank) -> None:\n    if __initialized:\n        if not t.is_cuda:\n            cu = t.detach().cuda()\n            tdist.broadcast(cu, src=src_rank)\n            t.copy_(cu.cpu())\n        else:\n            tdist.broadcast(t, src=src_rank)",
+        "detail": "dist",
+        "documentation": {}
+    },
+    {
+        "label": "__initialized",
+        "kind": 5,
+        "importPath": "dist",
+        "description": "dist",
+        "peekOfCode": "__initialized = False\ndef initialized():\n    return __initialized\ndef initialize(backend='nccl'):\n    global __device\n    if not torch.cuda.is_available():\n        print(f'[dist initialize] cuda is not available, use cpu instead', file=sys.stderr)\n        return\n    elif 'RANK' not in os.environ:\n        __device = torch.empty(1).cuda().device",
+        "detail": "dist",
+        "documentation": {}
+    },
+    {
+        "label": "SparseConv2d",
+        "kind": 6,
+        "importPath": "encoder",
+        "description": "encoder",
+        "peekOfCode": "class SparseConv2d(nn.Conv2d):\n    forward = sp_conv_forward   # hack: override the forward function; see `sp_conv_forward` above for more details\nclass SparseMaxPooling(nn.MaxPool2d):\n    forward = sp_conv_forward   # hack: override the forward function; see `sp_conv_forward` above for more details\nclass SparseAvgPooling(nn.AvgPool2d):\n    forward = sp_conv_forward   # hack: override the forward function; see `sp_conv_forward` above for more details\nclass SparseBatchNorm2d(nn.BatchNorm1d):\n    forward = sp_bn_forward     # hack: override the forward function; see `sp_bn_forward` above for more details\nclass SparseSyncBatchNorm2d(nn.SyncBatchNorm):\n    forward = sp_bn_forward     # hack: override the forward function; see `sp_bn_forward` above for more details",
+        "detail": "encoder",
+        "documentation": {}
+    },
+    {
+        "label": "SparseMaxPooling",
+        "kind": 6,
+        "importPath": "encoder",
+        "description": "encoder",
+        "peekOfCode": "class SparseMaxPooling(nn.MaxPool2d):\n    forward = sp_conv_forward   # hack: override the forward function; see `sp_conv_forward` above for more details\nclass SparseAvgPooling(nn.AvgPool2d):\n    forward = sp_conv_forward   # hack: override the forward function; see `sp_conv_forward` above for more details\nclass SparseBatchNorm2d(nn.BatchNorm1d):\n    forward = sp_bn_forward     # hack: override the forward function; see `sp_bn_forward` above for more details\nclass SparseSyncBatchNorm2d(nn.SyncBatchNorm):\n    forward = sp_bn_forward     # hack: override the forward function; see `sp_bn_forward` above for more details\nclass SparseConvNeXtLayerNorm(nn.LayerNorm):\n    r\"\"\" LayerNorm that supports two data formats: channels_last (default) or channels_first.",
+        "detail": "encoder",
+        "documentation": {}
+    },
+    {
+        "label": "SparseAvgPooling",
+        "kind": 6,
+        "importPath": "encoder",
+        "description": "encoder",
+        "peekOfCode": "class SparseAvgPooling(nn.AvgPool2d):\n    forward = sp_conv_forward   # hack: override the forward function; see `sp_conv_forward` above for more details\nclass SparseBatchNorm2d(nn.BatchNorm1d):\n    forward = sp_bn_forward     # hack: override the forward function; see `sp_bn_forward` above for more details\nclass SparseSyncBatchNorm2d(nn.SyncBatchNorm):\n    forward = sp_bn_forward     # hack: override the forward function; see `sp_bn_forward` above for more details\nclass SparseConvNeXtLayerNorm(nn.LayerNorm):\n    r\"\"\" LayerNorm that supports two data formats: channels_last (default) or channels_first.\n    The ordering of the dimensions in the inputs. channels_last corresponds to inputs with\n    shape (batch_size, height, width, channels) while channels_first corresponds to inputs",
+        "detail": "encoder",
+        "documentation": {}
+    },
+    {
+        "label": "SparseBatchNorm2d",
+        "kind": 6,
+        "importPath": "encoder",
+        "description": "encoder",
+        "peekOfCode": "class SparseBatchNorm2d(nn.BatchNorm1d):\n    forward = sp_bn_forward     # hack: override the forward function; see `sp_bn_forward` above for more details\nclass SparseSyncBatchNorm2d(nn.SyncBatchNorm):\n    forward = sp_bn_forward     # hack: override the forward function; see `sp_bn_forward` above for more details\nclass SparseConvNeXtLayerNorm(nn.LayerNorm):\n    r\"\"\" LayerNorm that supports two data formats: channels_last (default) or channels_first.\n    The ordering of the dimensions in the inputs. channels_last corresponds to inputs with\n    shape (batch_size, height, width, channels) while channels_first corresponds to inputs\n    with shape (batch_size, channels, height, width).\n    \"\"\"",
+        "detail": "encoder",
+        "documentation": {}
+    },
+    {
+        "label": "SparseSyncBatchNorm2d",
+        "kind": 6,
+        "importPath": "encoder",
+        "description": "encoder",
+        "peekOfCode": "class SparseSyncBatchNorm2d(nn.SyncBatchNorm):\n    forward = sp_bn_forward     # hack: override the forward function; see `sp_bn_forward` above for more details\nclass SparseConvNeXtLayerNorm(nn.LayerNorm):\n    r\"\"\" LayerNorm that supports two data formats: channels_last (default) or channels_first.\n    The ordering of the dimensions in the inputs. channels_last corresponds to inputs with\n    shape (batch_size, height, width, channels) while channels_first corresponds to inputs\n    with shape (batch_size, channels, height, width).\n    \"\"\"\n    def __init__(self, normalized_shape, eps=1e-6, data_format=\"channels_last\", sparse=True):\n        if data_format not in [\"channels_last\", \"channels_first\"]:",
+        "detail": "encoder",
+        "documentation": {}
+    },
+    {
+        "label": "SparseConvNeXtLayerNorm",
+        "kind": 6,
+        "importPath": "encoder",
+        "description": "encoder",
+        "peekOfCode": "class SparseConvNeXtLayerNorm(nn.LayerNorm):\n    r\"\"\" LayerNorm that supports two data formats: channels_last (default) or channels_first.\n    The ordering of the dimensions in the inputs. channels_last corresponds to inputs with\n    shape (batch_size, height, width, channels) while channels_first corresponds to inputs\n    with shape (batch_size, channels, height, width).\n    \"\"\"\n    def __init__(self, normalized_shape, eps=1e-6, data_format=\"channels_last\", sparse=True):\n        if data_format not in [\"channels_last\", \"channels_first\"]:\n            raise NotImplementedError\n        super().__init__(normalized_shape, eps, elementwise_affine=True)",
+        "detail": "encoder",
+        "documentation": {}
+    },
+    {
+        "label": "SparseConvNeXtBlock",
+        "kind": 6,
+        "importPath": "encoder",
+        "description": "encoder",
+        "peekOfCode": "class SparseConvNeXtBlock(nn.Module):\n    r\"\"\" ConvNeXt Block. There are two equivalent implementations:\n    (1) DwConv -> LayerNorm (channels_first) -> 1x1 Conv -> GELU -> 1x1 Conv; all in (N, C, H, W)\n    (2) DwConv -> Permute to (N, H, W, C); LayerNorm (channels_last) -> Linear -> GELU -> Linear; Permute back\n    We use (2) as we find it slightly faster in PyTorch\n    Args:\n        dim (int): Number of input channels.\n        drop_path (float): Stochastic depth rate. Default: 0.0\n        layer_scale_init_value (float): Init value for Layer Scale. Default: 1e-6.\n    \"\"\"",
+        "detail": "encoder",
+        "documentation": {}
+    },
+    {
+        "label": "SparseEncoder",
+        "kind": 6,
+        "importPath": "encoder",
+        "description": "encoder",
+        "peekOfCode": "class SparseEncoder(nn.Module):\n    def __init__(self, cnn, input_size, sbn=False, verbose=False):\n        super(SparseEncoder, self).__init__()\n        self.sp_cnn = SparseEncoder.dense_model_to_sparse(m=cnn, verbose=verbose, sbn=sbn)\n        self.input_size, self.downsample_raito, self.enc_feat_map_chs = input_size, cnn.get_downsample_ratio(), cnn.get_feature_map_channels()\n    @staticmethod\n    def dense_model_to_sparse(m: nn.Module, verbose=False, sbn=False):\n        oup = m\n        if isinstance(m, nn.Conv2d):\n            m: nn.Conv2d",
+        "detail": "encoder",
+        "documentation": {}
+    },
+    {
+        "label": "sp_conv_forward",
+        "kind": 2,
+        "importPath": "encoder",
+        "description": "encoder",
+        "peekOfCode": "def sp_conv_forward(self, x: torch.Tensor):\n    x = super(type(self), self).forward(x)\n    x *= _get_active_ex_or_ii(H=x.shape[2], W=x.shape[3], returning_active_ex=True)    # (BCHW) *= (B1HW), mask the output of conv\n    return x\ndef sp_bn_forward(self, x: torch.Tensor):\n    ii = _get_active_ex_or_ii(H=x.shape[2], W=x.shape[3], returning_active_ex=False)\n    bhwc = x.permute(0, 2, 3, 1)\n    nc = bhwc[ii]                               # select the features on non-masked positions to form a flatten feature `nc`\n    nc = super(type(self), self).forward(nc)    # use BN1d to normalize this flatten feature `nc`\n    bchw = torch.zeros_like(bhwc)",
+        "detail": "encoder",
+        "documentation": {}
+    },
+    {
+        "label": "sp_bn_forward",
+        "kind": 2,
+        "importPath": "encoder",
+        "description": "encoder",
+        "peekOfCode": "def sp_bn_forward(self, x: torch.Tensor):\n    ii = _get_active_ex_or_ii(H=x.shape[2], W=x.shape[3], returning_active_ex=False)\n    bhwc = x.permute(0, 2, 3, 1)\n    nc = bhwc[ii]                               # select the features on non-masked positions to form a flatten feature `nc`\n    nc = super(type(self), self).forward(nc)    # use BN1d to normalize this flatten feature `nc`\n    bchw = torch.zeros_like(bhwc)\n    bchw[ii] = nc\n    bchw = bchw.permute(0, 3, 1, 2)\n    return bchw\nclass SparseConv2d(nn.Conv2d):",
+        "detail": "encoder",
+        "documentation": {}
+    },
+    {
+        "label": "LocalDDP",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class LocalDDP(torch.nn.Module):\n    def __init__(self, module):\n        super(LocalDDP, self).__init__()\n        self.module = module\n    def forward(self, *args, **kwargs):\n        return self.module(*args, **kwargs)\ndef main_pt():\n    args: arg_util.Args = arg_util.init_dist_and_get_args()\n    print(f'initial args:\\n{str(args)}')\n    args.log_epoch()",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "main_pt",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def main_pt():\n    args: arg_util.Args = arg_util.init_dist_and_get_args()\n    print(f'initial args:\\n{str(args)}')\n    args.log_epoch()\n    # build data\n    print(f'[build data for pre-training] ...\\n')\n    dataset_train = build_dataset_to_pretrain(args.data_path, args.input_size)\n    data_loader_train = DataLoader(\n        dataset=dataset_train, num_workers=args.dataloader_workers, pin_memory=True,\n        batch_sampler=DistInfiniteBatchSampler(",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "pre_train_one_ep",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def pre_train_one_ep(ep, args: arg_util.Args, tb_lg: misc.TensorboardLogger, itrt_train, iters_train, model: DistributedDataParallel, optimizer):\n    model.train()\n    me = misc.MetricLogger(delimiter='  ')\n    me.add_meter('max_lr', misc.SmoothedValue(window_size=1, fmt='{value:.5f}'))\n    header = f'[PT] Epoch {ep}:'\n    optimizer.zero_grad()\n    early_clipping = args.clip > 0 and not hasattr(optimizer, 'global_grad_norm')\n    late_clipping = hasattr(optimizer, 'global_grad_norm')\n    if early_clipping:\n        params_req_grad = [p for p in model.parameters() if p.requires_grad]",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "DistInfiniteBatchSampler",
+        "kind": 6,
+        "importPath": "sampler",
+        "description": "sampler",
+        "peekOfCode": "class DistInfiniteBatchSampler(Sampler):\n    def __init__(self, world_size, rank, dataset_len, glb_batch_size, seed=1, filling=False, shuffle=True):\n        assert glb_batch_size % world_size == 0\n        self.world_size, self.rank = world_size, rank\n        self.dataset_len = dataset_len\n        self.glb_batch_size = glb_batch_size\n        self.batch_size = glb_batch_size // world_size\n        self.iters_per_ep = (dataset_len + glb_batch_size - 1) // glb_batch_size\n        self.filling = filling\n        self.shuffle = shuffle",
+        "detail": "sampler",
+        "documentation": {}
+    },
+    {
+        "label": "worker_init_fn",
+        "kind": 2,
+        "importPath": "sampler",
+        "description": "sampler",
+        "peekOfCode": "def worker_init_fn(worker_id):\n    # https://pytorch.org/docs/stable/notes/randomness.html#dataloader\n    worker_seed = torch.initial_seed() % 2 ** 32\n    np.random.seed(worker_seed)\n    random.seed(worker_seed)\nclass DistInfiniteBatchSampler(Sampler):\n    def __init__(self, world_size, rank, dataset_len, glb_batch_size, seed=1, filling=False, shuffle=True):\n        assert glb_batch_size % world_size == 0\n        self.world_size, self.rank = world_size, rank\n        self.dataset_len = dataset_len",
+        "detail": "sampler",
+        "documentation": {}
+    },
+    {
+        "label": "SparK",
+        "kind": 6,
+        "importPath": "spark",
+        "description": "spark",
+        "peekOfCode": "class SparK(nn.Module):\n    def __init__(\n            self, sparse_encoder: encoder.SparseEncoder, dense_decoder: LightDecoder,\n            mask_ratio=0.6, densify_norm='bn', sbn=False,\n    ):\n        super().__init__()\n        input_size, downsample_raito = sparse_encoder.input_size, sparse_encoder.downsample_raito\n        self.downsample_raito = downsample_raito\n        self.fmap_h, self.fmap_w = input_size // downsample_raito, input_size // downsample_raito\n        self.mask_ratio = mask_ratio",
+        "detail": "spark",
+        "documentation": {}
+    }
+]
